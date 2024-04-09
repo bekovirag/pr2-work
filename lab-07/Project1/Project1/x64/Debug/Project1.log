@@ -1,0 +1,14 @@
+﻿  FileName.cpp
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(20,7): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(20,14): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(20,33): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(22,31): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(23,19): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(26,31): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(27,20): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(28,21): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(28,50): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(30,12): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(31,12): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(31,49): error C2065: 'i': undeclared identifier
+C:\Munka\pr2-work\lab-07\Project1\Project1\FileName.cpp(53,2): warning C4154: deletion of an array expression; conversion to pointer supplied
